@@ -1,0 +1,4 @@
+export AWS_ACCESS_KEY_ID = "AKIAY2APUC2U5NDP5N4E"
+export AWS_SECRET_ACCESS_KEY = "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"
+export AWS_STORAGE_BUCKET_NAME = "load-manage-files"
+
